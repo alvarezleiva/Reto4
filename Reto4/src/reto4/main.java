@@ -13,6 +13,7 @@ public class main {
 			try {
 				for (int i = 0; i < 3; i++) {
 					nombre = sc.nextLine();
+					System.out.println(Funciones1.class);
 				}
 
 			} catch (Exception e) {
@@ -22,4 +23,5 @@ public class main {
 		} while (true);
 	}
 
+	public static void 
 }
