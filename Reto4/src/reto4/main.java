@@ -13,7 +13,7 @@ public class main {
 			try {
 				for (int i = 0; i < 3; i++) {
 					nombre = sc.nextLine();
-					System.out.println(Funciones1.class);
+					System.out.println(Funciones1.vocalesMayus(nombre));
 				}
 
 			} catch (Exception e) {
@@ -23,5 +23,4 @@ public class main {
 		} while (true);
 	}
 
-	public static void 
 }
