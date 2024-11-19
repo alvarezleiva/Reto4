@@ -2,7 +2,7 @@ package reto4;
 
 public class Funciones1 {
 
-	private static String vocalesMayus(String s) {
+	public static String vocalesMayus(String s) {
 		String letra=null;
 		// Comprueba cada letra del string y si es una vocal la pone es mayuscula
 		for (int i = s.length(); i> 0; i--) {
